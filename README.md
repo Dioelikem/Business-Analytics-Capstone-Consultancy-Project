@@ -21,3 +21,6 @@ Data wrangling and processing in Excel and Tableau. The PowerPoint was designed 
 ![](Capstone_Consultancy_Project_Analysis_Finding.png)
 ![](Capstone_Consultancy_Project_Analysis_Finding2.png)
 ![](Capstone_Consultancy_Project_Analysis_Finding3.png)
+![](Capstone_Consultancy_Project_Analysis_Finding_4.png)
+![](Capstone_Consultancy_Project_Analysis_Finding_5.png)
+![](Capstone_Consultancy_Project_Recommendations.png)
