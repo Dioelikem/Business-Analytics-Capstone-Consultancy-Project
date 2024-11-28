@@ -16,3 +16,5 @@ Data wrangling and processing in Excel and Tableau. The PowerPoint was designed 
 ![](Capstone_Consultancy_Project_Wait_Time_Crisis.png)
 ![](Capstone_Consultancy_Project_Wait_Time_Crisis_Word_Cloud.png)
 ![](Capstone_Consultancy_Project_Wait_Time_Crisis_3.png)
+![](Capstone_Consultancy_Project_Wait_Time_Crisis_4.png)
+![](Capstone_Consultancy_Project_Research_Questions.png)
