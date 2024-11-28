@@ -38,7 +38,6 @@ This Microsoft PowerPoint-based report is the culmination of a 4-month Capstone 
 ---
 ![](Capstone_Consultancy_Project_Wait_Time_Crisis_4.png)
 ---
-
 **Research Questions**
 ![](Capstone_Consultancy_Project_Research_Questions.png)
 ---
@@ -55,3 +54,4 @@ This Microsoft PowerPoint-based report is the culmination of a 4-month Capstone 
 ---
 **Recommendations**
 ![](Capstone_Consultancy_Project_Recommendations.png)
+---
