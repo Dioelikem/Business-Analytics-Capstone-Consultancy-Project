@@ -7,7 +7,7 @@ This Microsoft PowerPoint-based report is the culmination of a 4-month Business 
   - Skills in Action: Applied a robust mix of analytical tools and methodologies, showcasing the practical application of knowledge gained during the course.
     
 **Technical Tools and Techniques**:
-- Excel: Performed initial data wrangling, processing, and quality assurance was performed on a 30,000 rows of data of wait time for various medical procedures. We ensured data quality by assessing the number of inconsistency for Data Consistency, the Ratio of Missing value for Data Completeness, the Ratio of Data to Errors for Data Accuracy, the Number of duplicates for Data Uniqueness and the Ratio of Inappropriate Data format for Data Orderliness. Dedupication was done and the ratio of Data to error was less than 1%. After the data cleaning and qua
+- Excel: Performed initial data wrangling, processing, and quality assurance was performed on a 30,000 rows of data of wait time for various medical procedures. We ensured data quality by assessing the number of inconsistency for Data Consistency, the Ratio of Missing value for Data Completeness, the Ratio of Data to Errors for Data Accuracy, the Number of duplicates for Data Uniqueness and the Ratio of Inappropriate Data format for Data Orderliness. Dedupication was done and the ratio of error to Data was less than 1%. Also, there were no outliers.
 - Tableau: Executed data merging (full inner join), appended tables, and performed regression analysis to predict the outlook of the pandemic if trends continued and recommendations were proferred to address the crisi.
 - Python (Google Colab): Leveraged Python for natural language processing, including creating a word cloud based on text from the Fraser Report.
   
